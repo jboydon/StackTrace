@@ -120,8 +120,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 318185936;
-			PBXWorkspaceStateSaveDate = 318185936;
+			PBXPerProjectTemplateStateSaveDate = 319737416;
+			PBXWorkspaceStateSaveDate = 319737416;
 		};
 		perUserProjectItems = {
 			42438BED1264C1B9004EEA83 /* PBXTextBookmark */ = 42438BED1264C1B9004EEA83 /* PBXTextBookmark */;
@@ -129,11 +129,11 @@
 			42438BEF1264C1B9004EEA83 /* PBXTextBookmark */ = 42438BEF1264C1B9004EEA83 /* PBXTextBookmark */;
 			424C4A5E12F721E600D511FD /* PBXTextBookmark */ = 424C4A5E12F721E600D511FD /* PBXTextBookmark */;
 			4278E377121ACAC7000211D6 /* PBXTextBookmark */ = 4278E377121ACAC7000211D6 /* PBXTextBookmark */;
-			42CC887F12F03ECE0067A98C /* PBXTextBookmark */ = 42CC887F12F03ECE0067A98C /* PBXTextBookmark */;
 			42D3C4F711CE4F9E00413D2E /* PBXTextBookmark */ = 42D3C4F711CE4F9E00413D2E /* PBXTextBookmark */;
 			42D3C4F811CE4F9E00413D2E /* PBXTextBookmark */ = 42D3C4F811CE4F9E00413D2E /* PBXTextBookmark */;
 			42D3C4FA11CE4F9E00413D2E /* PBXTextBookmark */ = 42D3C4FA11CE4F9E00413D2E /* PBXTextBookmark */;
 			42D3C4FC11CE4F9E00413D2E /* PlistBookmark */ = 42D3C4FC11CE4F9E00413D2E /* PlistBookmark */;
+			42F5FB03130ECE4A00F711DC /* PBXTextBookmark */ = 42F5FB03130ECE4A00F711DC /* PBXTextBookmark */;
 			42FB6B0811CF649B004EAC3E /* PBXTextBookmark */ = 42FB6B0811CF649B004EAC3E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 429992D50FA8574900BC7F30 /* Source Control */;
@@ -296,16 +296,6 @@
 	429992E90FA8578D00BC7F30 /* StaticStackTrace */ = {
 		activeExec = 0;
 	};
-	42CC887F12F03ECE0067A98C /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* StackTraceAppDelegate.m */;
-		name = "StackTraceAppDelegate.m: 5";
-		rLen = 0;
-		rLoc = 49;
-		rType = 0;
-		vrLen = 579;
-		vrLoc = 0;
-	};
 	42D3C4F711CE4F9E00413D2E /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 429992DE0FA8577000BC7F30 /* GTMObjC2Runtime.h */;
@@ -346,6 +336,16 @@
 		name = /Users/puggelli/Development/Libraries/StackTrace/Info.plist;
 		rLen = 0;
 		rLoc = 9223372036854775808;
+	};
+	42F5FB03130ECE4A00F711DC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StackTraceAppDelegate.m */;
+		name = "StackTraceAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 49;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
 	};
 	42FB6B0811CF649B004EAC3E /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

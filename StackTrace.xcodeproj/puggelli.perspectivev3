@@ -352,7 +352,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>424C4A5E12F721E600D511FD</string>
+										<string>42F5FB03130ECE4A00F711DC</string>
 										<key>history</key>
 										<array>
 											<string>42D3C4F711CE4F9E00413D2E</string>
@@ -364,7 +364,7 @@
 											<string>42438BED1264C1B9004EEA83</string>
 											<string>42438BEE1264C1B9004EEA83</string>
 											<string>42438BEF1264C1B9004EEA83</string>
-											<string>42CC887F12F03ECE0067A98C</string>
+											<string>424C4A5E12F721E600D511FD</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -378,18 +378,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {788, 509}}</string>
+								<string>{{0, 0}, {788, 501}}</string>
 								<key>RubberWindowFrame</key>
 								<string>572 149 1202 841 0 0 1920 1058 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>509pt</string>
+							<string>501pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>286pt</string>
+							<string>294pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -403,7 +403,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {788, 259}}</string>
+										<string>{{10, 27}, {788, 267}}</string>
 										<key>RubberWindowFrame</key>
 										<string>572 149 1202 841 0 0 1920 1058 </string>
 									</dict>
@@ -487,11 +487,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>424C4A5912F721DA00D511FD</string>
+				<string>42F5FB04130ECE4A00F711DC</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>424C4A5A12F721DA00D511FD</string>
+				<string>42F5FB05130ECE4A00F711DC</string>
 				<string>42D3C4F411CE4F9E00413D2E</string>
-				<string>424C4A5B12F721DA00D511FD</string>
+				<string>42F5FB06130ECE4A00F711DC</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -664,7 +664,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>318185958.19116998</real>
+	<real>319737418.11879098</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -681,7 +681,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>/Volumes/Users/Users/puggelli/Development/Libraries/StackTrace/StackTrace.xcodeproj</string>
+		<string>/Volumes/Users/Users/puggelli/Development/Libraries/StackTrace/source/StackTrace.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>572 149 1202 841 0 0 1920 1058 </string>
